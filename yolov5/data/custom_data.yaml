@@ -1,0 +1,6 @@
+train: train_data/images/train/  # train images (relative to 'path') 12 images
+val: train_data/images/val  # val images (relative to 'path') 6 images
+
+names:
+  0: awake
+  1: sleepy
